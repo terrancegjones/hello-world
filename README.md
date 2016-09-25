@@ -1,2 +1,2 @@
 # hello-world
-Here I go
+Learning how to program from scratch
